@@ -10,7 +10,7 @@ This project analyzes tumor volume data from a study conducted on mice. The goal
 
 Capomulin & Ramicane were the most heavily used drug regimen which each being used over 200 timepoints during the duration of the trial.
 
-This higher usage lead to a mean Tumor Vol being noticibly lower than the rest of the frug regimens.
+This higher usage lead to a mean Tumor Vol being noticibly lower than the rest of the drug regimens.
 
 With the gender split being 51% / 49%, there does not seem to be a noticible difference in drug performance based on gender.
 
